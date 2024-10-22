@@ -114,3 +114,5 @@ while True:
 
 window.close()
 
+print('Hello World')
+
