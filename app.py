@@ -113,6 +113,3 @@ while True:
             break
 
 window.close()
-
-print('Hello World')
-
