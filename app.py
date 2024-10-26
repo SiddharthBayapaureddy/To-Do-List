@@ -29,8 +29,6 @@ layout = [ [clock] , [label ], [input_box, add_button] , [list_box , edit_button
 window = gui.Window('My To-Do App' , 
                     layout= layout,
                     font=('SF Pro' , 15) , 
-                    
-                    
                     )
 while True:
     event , value = window.read(timeout=1000)
